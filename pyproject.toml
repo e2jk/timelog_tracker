@@ -27,7 +27,7 @@ PyYAML = "^5.4.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.3"
-coverage = {extras = ["toml"], version = "^5.3"}
+coverage = {extras = ["toml"], version = ">5.5", allow-prereleases = true}
 safety = "^1.9.0"
 mypy = "^0.902"
 typeguard = "^2.12.0"
