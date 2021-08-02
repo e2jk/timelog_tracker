@@ -1,0 +1,19 @@
+cookietemple_version: '1.3.9 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: timelog_tracker
+project_slug_no_hyphen: timelog_tracker
+template_version: '2.0.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: e2jk
+creator_github_username: e2jk
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Emilien Klein
+email: emilien@klein.st
+project_name: timelog_tracker
+project_short_description: A utility to track working time in a Microsoft Outlook
+  calendar and generate monthly timesheets.
+version: 0.1.0
+license: MIT
